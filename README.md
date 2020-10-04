@@ -9,3 +9,9 @@ Due to the low cost and flexible nature of Bike Sharing System there has been a 
 
 **Code Artefact**: This directory contains the python notebooks to implement the model. The order can be referred from the configuration manual.
 
+**Research Project Report**: It is the Research papaer which provides a collective record of all the techniques and key findings made during the whole process of the research.
+
+**Research Project Presentation**: It is an introductory presentation on the Project. It educates the user on the topic of research, the methodology used ad the conclusion derived. 
+You can also refer to the Youtube video link for a video presentation: https://youtu.be/ciU1bhaUUks
+Also you can view the Code artefact video from this link: https://youtu.be/3tO8E_IucZ0
+
