@@ -8,10 +8,11 @@ Due to the low cost and flexible nature of Bike Sharing System there has been a 
 **Configuration Manual**: It provides a detailed description of system setting used for implementing this project. It also provide information on the different libraries and machine learning algorithms used for the successful execution.
 
 **Code Artefact**: This directory contains the python notebooks to implement the model. The order can be referred from the configuration manual.
+You can refer to the Youtube Link for the Code artefact video: https://youtu.be/3tO8E_IucZ0
+
 
 **Research Project Report**: It is the Research papaer which provides a collective record of all the techniques and key findings made during the whole process of the research.
 
 **Research Project Presentation**: It is an introductory presentation on the Project. It educates the user on the topic of research, the methodology used ad the conclusion derived. 
 You can also refer to the Youtube video link for a video presentation: https://youtu.be/ciU1bhaUUks
-Also you can view the Code artefact video from this link: https://youtu.be/3tO8E_IucZ0
 
